@@ -49,7 +49,7 @@ int main() {
 
 
 ## OUTPUT:
-<img width="706" height="207" alt="Screenshot 2026-07-21 142640" src="https://github.com/user-attachments/assets/eda47911-94d0-4900-90ba-88eebc709579" />
+<img width="442" height="280" alt="Screenshot 2026-07-21 144315" src="https://github.com/user-attachments/assets/960eb291-448b-438d-810c-d4e6615f73b5" />
 
 
 ## RESULT :
